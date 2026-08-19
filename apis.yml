@@ -34,7 +34,7 @@ x-status-note: >-
   honey.is (and blog./www./api. subdomains) return no DNS records as of 2026-07-19;
   no live API, docs, SDK, or developer surface exists to enrich. Not affiliated with
   PayPal Honey (joinhoney.com), an unrelated browser-extension company.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
