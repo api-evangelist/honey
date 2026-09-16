@@ -43,7 +43,7 @@ x-status-note: honey.is (and blog./www./api. subdomains) return no DNS records a
   an unrelated browser-extension company.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Intranet
@@ -52,6 +52,7 @@ tags:
 - Collaboration
 - Enterprise
 - Software-as-a-Service
+- Defunct
 tags_raw:
 - Company
 - Intranet
@@ -60,6 +61,7 @@ tags_raw:
 - Collaboration
 - Enterprise
 - SaaS
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
